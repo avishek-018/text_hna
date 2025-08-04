@@ -1,0 +1,65 @@
+Neuron,Candidate_Labels
+Neuron_0,None
+Neuron_1,"iraq.n.01, gaza_strip.n.01, baghdad.n.01"
+Neuron_2,"time_period.n.01, league.n.01, association.n.01"
+Neuron_3,"iraq.n.01, gaza_strip.n.01, baghdad.n.01"
+Neuron_4,"iraq.n.01, gaza_strip.n.01, baghdad.n.01"
+Neuron_5,"company.n.01, institution.n.01, corporation.n.01"
+Neuron_6,"league.n.01, association.n.01, activity.n.01"
+Neuron_7,"oil.n.01, lipid.n.01"
+Neuron_8,"stocks.n.01, framework.n.03"
+Neuron_9,None
+Neuron_10,"company.n.01, institution.n.01"
+Neuron_11,"freestyle.n.01, race.n.02, thorpe.n.01"
+Neuron_12,"game.n.01, activity.n.01, time_period.n.01"
+Neuron_13,"time_period.n.01, activity.n.01, league.n.01"
+Neuron_14,"time_period.n.01, league.n.01, association.n.01"
+Neuron_15,"gaza_strip.n.01, iraq.n.01, baghdad.n.01"
+Neuron_16,None
+Neuron_17,"software.n.01, code.n.03"
+Neuron_18,"software.n.01, code.n.03, internet.n.01"
+Neuron_19,"time_period.n.01, league.n.01, association.n.01"
+Neuron_20,None
+Neuron_21,"oil.n.01, lipid.n.01, monetary_value.n.01"
+Neuron_22,None
+Neuron_23,"iraq.n.01, corporate_executive.n.01"
+Neuron_24,"software.n.01, code.n.03, internet.n.01"
+Neuron_25,"time_period.n.01, activity.n.01, league.n.01"
+Neuron_26,None
+Neuron_27,None
+Neuron_28,"time_period.n.01, league.n.01, association.n.01"
+Neuron_29,None
+Neuron_30,"iraq.n.01, corporate_executive.n.01"
+Neuron_31,"time_period.n.01, league.n.01, association.n.01"
+Neuron_32,"time_period.n.01, league.n.01, association.n.01"
+Neuron_33,"activity.n.01, league.n.01, association.n.01"
+Neuron_34,"gaza_strip.n.01, iraq.n.01, baghdad.n.01"
+Neuron_35,"iraq.n.01, gaza_strip.n.01, baghdad.n.01"
+Neuron_36,"gaza_strip.n.01, iraq.n.01, baghdad.n.01"
+Neuron_37,"space.n.01, attribute.n.02"
+Neuron_38,"company.n.01, institution.n.01"
+Neuron_39,"iraq.n.01, baghdad.n.01"
+Neuron_40,"time_period.n.01, activity.n.01, league.n.01"
+Neuron_41,"activity.n.01, time_period.n.01, rest_day.n.01"
+Neuron_42,"iraq.n.01, baghdad.n.01, gaza_strip.n.01"
+Neuron_43,"iraq.n.01, baghdad.n.01"
+Neuron_44,None
+Neuron_45,"stocks.n.01, framework.n.03"
+Neuron_46,"chromatic_color.n.01, score.n.10, high_status.n.01"
+Neuron_47,None
+Neuron_48,"game.n.01, activity.n.01, league.n.01"
+Neuron_49,"oil.n.01, lipid.n.01, monetary_value.n.01"
+Neuron_50,"space.n.01, attribute.n.02, internet.n.01"
+Neuron_51,"software.n.01, code.n.03"
+Neuron_52,"company.n.01, institution.n.01"
+Neuron_53,"stocks.n.01, framework.n.03"
+Neuron_54,"high_status.n.01, association.n.01, ordering.n.01"
+Neuron_55,"software.n.01, code.n.03, internet.n.01"
+Neuron_56,None
+Neuron_57,"oil.n.01, lipid.n.01"
+Neuron_58,"company.n.01, institution.n.01"
+Neuron_59,"league.n.01, association.n.01, activity.n.01"
+Neuron_60,"software.n.01, code.n.03, company.n.01"
+Neuron_61,"software.n.01, code.n.03, internet.n.01"
+Neuron_62,"company.n.01, institution.n.01"
+Neuron_63,"gaza_strip.n.01, iraq.n.01, israeli.n.01"
